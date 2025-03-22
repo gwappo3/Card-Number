@@ -1,4 +1,5 @@
-#!/data/data/com.termux
+#!/bin/bash
+
 
 
 sleep 2
